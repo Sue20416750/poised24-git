@@ -1,0 +1,3 @@
+123,House,Double Story,12 glen street,446,1000.0,300.0,22/12/2022,Sbu,11 joburg street,sbu@gmail.com,0812727271,Athule,12 cape street,athu@mail.com,0838737727,Khumalo,3 maponya street,m@gmai.com,0118383720,not complete,none applicable
+111,Flat,Double Story,12 glen street,220,560.0,350.0,22/04/2023,Sbu,11 joburg street,sbu@gmail.com,0812727271,Athule,12 cape street,athu@mail.com,0838737727,Khumalo,3 maponya street,m@gmai.com,0118383720,not complete,none applicable
+333,TownHouse,Double Story,12 glen street,320,700.0,700.0,22/09/2022,Sbu,11 joburg street,sbu@gmail.com,0812727271,Athule,12 cape street,athu@mail.com,0838737727,Khumalo,3 maponya street,m@gmai.com,0118383720,finalised,10/09/2022
